@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dimitar-Velchev
-- 👀 I’m interested in ...front end, back end and web applications.
-- 🌱 I’m currently learning ...JavaScript, HTML and CSS.
+- 👀 I’m interested in ...front end, back end, web applications.
+- 🌱 I’m currently learning ...JavaScript, MERN stack.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...dimitarvelchev59@gmail.com
 
